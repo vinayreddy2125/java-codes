@@ -4,6 +4,6 @@ public class first
         System.out.println("hello");
         System.out.println("welcome");
         System.out.println("to my github");
-        
+        System.out.println("to my github");
     }
 }
